@@ -1,8 +1,8 @@
 # performance_metrics_without_sklearn
 Implemented below Performance Metrics without Sklearn :
 
-CONFUSION MATRIX
-PRECISION
+1. CONFUSION MATRIX
+2. PRECISION
 RECALL
 ACCURACY
 ROC_AUC
